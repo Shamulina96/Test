@@ -8,6 +8,8 @@ public class Task1 {
         System.out.println("Введите число");
         int number = scanner.nextInt();
         if (number > 7) System.out.println("Привет");
-        hfgfhd
+        hfgfhdччч
+                hjhjhjh
     }
 }
+git status
